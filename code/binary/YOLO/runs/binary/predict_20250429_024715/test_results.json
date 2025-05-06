@@ -1,0 +1,161 @@
+[
+    {
+        "image": "0550_0521661408_02_WRI-R2_M006.png",
+        "has_fracture": true,
+        "predictions": [
+            {
+                "class_id": 0,
+                "class_name": "fracture",
+                "confidence": 0.7413548231124878,
+                "box": [
+                    0.5522006750106812,
+                    0.3534508943557739,
+                    0.1772378832101822,
+                    0.07079426199197769
+                ]
+            }
+        ]
+    },
+    {
+        "image": "0550_0521663728_03_WRI-R1_M006.png",
+        "has_fracture": true,
+        "predictions": [
+            {
+                "class_id": 0,
+                "class_name": "fracture",
+                "confidence": 0.8251169919967651,
+                "box": [
+                    0.48651188611984253,
+                    0.5827975273132324,
+                    0.20723435282707214,
+                    0.11368943750858307
+                ]
+            }
+        ]
+    },
+    {
+        "image": "0550_0521663819_03_WRI-R2_M006.png",
+        "has_fracture": true,
+        "predictions": [
+            {
+                "class_id": 0,
+                "class_name": "fracture",
+                "confidence": 0.7913756370544434,
+                "box": [
+                    0.4723428785800934,
+                    0.5952785015106201,
+                    0.23651768267154694,
+                    0.08580267429351807
+                ]
+            }
+        ]
+    },
+    {
+        "image": "0550_0522868802_04_WRI-R1_M006.png",
+        "has_fracture": true,
+        "predictions": [
+            {
+                "class_id": 0,
+                "class_name": "fracture",
+                "confidence": 0.8042284846305847,
+                "box": [
+                    0.4472616910934448,
+                    0.5689733028411865,
+                    0.18190070986747742,
+                    0.08091790974140167
+                ]
+            }
+        ]
+    },
+    {
+        "image": "0550_0522868934_04_WRI-R2_M006.png",
+        "has_fracture": true,
+        "predictions": [
+            {
+                "class_id": 0,
+                "class_name": "fracture",
+                "confidence": 0.7576999664306641,
+                "box": [
+                    0.47969406843185425,
+                    0.4868924021720886,
+                    0.15628916025161743,
+                    0.08465993404388428
+                ]
+            }
+        ]
+    },
+    {
+        "image": "0554_0653164727_01_WRI-L1_M014.png",
+        "has_fracture": false,
+        "predictions": []
+    },
+    {
+        "image": "0554_0653164762_01_WRI-L2_M014.png",
+        "has_fracture": false,
+        "predictions": []
+    },
+    {
+        "image": "0565_1106531878_01_WRI-L1_F015.png",
+        "has_fracture": false,
+        "predictions": []
+    },
+    {
+        "image": "0565_1106531932_01_WRI-L2_F015.png",
+        "has_fracture": false,
+        "predictions": []
+    },
+    {
+        "image": "0565_1111018701_02_WRI-L1_F015.png",
+        "has_fracture": false,
+        "predictions": []
+    },
+    {
+        "image": "0565_1111018748_02_WRI-L2_F015.png",
+        "has_fracture": false,
+        "predictions": []
+    },
+    {
+        "image": "0577_0355113078_01_WRI-L1_F016.png",
+        "has_fracture": false,
+        "predictions": []
+    },
+    {
+        "image": "R.jpg",
+        "has_fracture": true,
+        "predictions": [
+            {
+                "class_id": 0,
+                "class_name": "fracture",
+                "confidence": 0.3732198178768158,
+                "box": [
+                    0.7988189458847046,
+                    0.6540868878364563,
+                    0.09011853486299515,
+                    0.16054736077785492
+                ]
+            },
+            {
+                "class_id": 0,
+                "class_name": "fracture",
+                "confidence": 0.3400105834007263,
+                "box": [
+                    0.17495517432689667,
+                    0.7429570555686951,
+                    0.09915591776371002,
+                    0.13349993526935577
+                ]
+            },
+            {
+                "class_id": 0,
+                "class_name": "fracture",
+                "confidence": 0.30725061893463135,
+                "box": [
+                    0.3126096725463867,
+                    0.6344915628433228,
+                    0.09073217958211899,
+                    0.07471313327550888
+                ]
+            }
+        ]
+    }
+]

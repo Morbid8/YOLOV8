@@ -1,0 +1,14 @@
+image_path,predicted_label,label_str
+D:\pythonProject\ultralytics-main\GRAZPEDWRI-DX\assets\0550_0521661408_02_WRI-R2_M006.png,1,Fracture
+D:\pythonProject\ultralytics-main\GRAZPEDWRI-DX\assets\0550_0521663728_03_WRI-R1_M006.png,1,Fracture
+D:\pythonProject\ultralytics-main\GRAZPEDWRI-DX\assets\0550_0521663819_03_WRI-R2_M006.png,1,Fracture
+D:\pythonProject\ultralytics-main\GRAZPEDWRI-DX\assets\0550_0522868802_04_WRI-R1_M006.png,1,Fracture
+D:\pythonProject\ultralytics-main\GRAZPEDWRI-DX\assets\0550_0522868934_04_WRI-R2_M006.png,1,Fracture
+D:\pythonProject\ultralytics-main\GRAZPEDWRI-DX\assets\0554_0653164727_01_WRI-L1_M014.png,1,Fracture
+D:\pythonProject\ultralytics-main\GRAZPEDWRI-DX\assets\0554_0653164762_01_WRI-L2_M014.png,0,No Fracture
+D:\pythonProject\ultralytics-main\GRAZPEDWRI-DX\assets\0565_1106531878_01_WRI-L1_F015.png,0,No Fracture
+D:\pythonProject\ultralytics-main\GRAZPEDWRI-DX\assets\0565_1106531932_01_WRI-L2_F015.png,0,No Fracture
+D:\pythonProject\ultralytics-main\GRAZPEDWRI-DX\assets\0565_1111018701_02_WRI-L1_F015.png,0,No Fracture
+D:\pythonProject\ultralytics-main\GRAZPEDWRI-DX\assets\0565_1111018748_02_WRI-L2_F015.png,0,No Fracture
+D:\pythonProject\ultralytics-main\GRAZPEDWRI-DX\assets\0577_0355113078_01_WRI-L1_F016.png,0,No Fracture
+D:\pythonProject\ultralytics-main\GRAZPEDWRI-DX\assets\R.jpg,1,Fracture
